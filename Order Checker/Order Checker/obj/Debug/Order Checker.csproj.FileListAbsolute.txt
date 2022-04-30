@@ -1,0 +1,11 @@
+D:\SOC50\ProjectSOC\Order Checker\Order Checker\bin\Debug\Order Checker.exe.config
+D:\SOC50\ProjectSOC\Order Checker\Order Checker\bin\Debug\Order Checker.exe
+D:\SOC50\ProjectSOC\Order Checker\Order Checker\bin\Debug\Order Checker.pdb
+D:\SOC50\ProjectSOC\Order Checker\Order Checker\obj\Debug\Order Checker.csproj.AssemblyReference.cache
+D:\SOC50\ProjectSOC\Order Checker\Order Checker\obj\Debug\Order Checker.csproj.SuggestedBindingRedirects.cache
+D:\SOC50\ProjectSOC\Order Checker\Order Checker\obj\Debug\Order_Checker.Form1.resources
+D:\SOC50\ProjectSOC\Order Checker\Order Checker\obj\Debug\Order_Checker.Properties.Resources.resources
+D:\SOC50\ProjectSOC\Order Checker\Order Checker\obj\Debug\Order Checker.csproj.GenerateResource.cache
+D:\SOC50\ProjectSOC\Order Checker\Order Checker\obj\Debug\Order Checker.csproj.CoreCompileInputs.cache
+D:\SOC50\ProjectSOC\Order Checker\Order Checker\obj\Debug\Order Checker.exe
+D:\SOC50\ProjectSOC\Order Checker\Order Checker\obj\Debug\Order Checker.pdb

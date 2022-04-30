@@ -1,0 +1,11 @@
+D:\SOC50\ProjectSOC\Drug Checker\Drug Checker\bin\Debug\Drug Checker.exe.config
+D:\SOC50\ProjectSOC\Drug Checker\Drug Checker\bin\Debug\Drug Checker.exe
+D:\SOC50\ProjectSOC\Drug Checker\Drug Checker\bin\Debug\Drug Checker.pdb
+D:\SOC50\ProjectSOC\Drug Checker\Drug Checker\obj\Debug\Drug Checker.csproj.AssemblyReference.cache
+D:\SOC50\ProjectSOC\Drug Checker\Drug Checker\obj\Debug\Drug Checker.csproj.SuggestedBindingRedirects.cache
+D:\SOC50\ProjectSOC\Drug Checker\Drug Checker\obj\Debug\Drug_Checker.Form1.resources
+D:\SOC50\ProjectSOC\Drug Checker\Drug Checker\obj\Debug\Drug_Checker.Properties.Resources.resources
+D:\SOC50\ProjectSOC\Drug Checker\Drug Checker\obj\Debug\Drug Checker.csproj.GenerateResource.cache
+D:\SOC50\ProjectSOC\Drug Checker\Drug Checker\obj\Debug\Drug Checker.csproj.CoreCompileInputs.cache
+D:\SOC50\ProjectSOC\Drug Checker\Drug Checker\obj\Debug\Drug Checker.exe
+D:\SOC50\ProjectSOC\Drug Checker\Drug Checker\obj\Debug\Drug Checker.pdb

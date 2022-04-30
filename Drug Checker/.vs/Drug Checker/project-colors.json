@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a46303a3-337a-4603-baca-6d4894bb5201": {
+      "ProjectGuid": "a46303a3-337a-4603-baca-6d4894bb5201",
+      "DisplayName": "Drug Checker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

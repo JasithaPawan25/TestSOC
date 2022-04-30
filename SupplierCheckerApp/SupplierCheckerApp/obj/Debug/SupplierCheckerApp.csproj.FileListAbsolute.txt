@@ -1,0 +1,14 @@
+D:\SOC50\ProjectSOC\SupplierCheckerApp\SupplierCheckerApp\bin\Debug\SupplierCheckerApp.exe.config
+D:\SOC50\ProjectSOC\SupplierCheckerApp\SupplierCheckerApp\bin\Debug\SupplierCheckerApp.exe
+D:\SOC50\ProjectSOC\SupplierCheckerApp\SupplierCheckerApp\bin\Debug\SupplierCheckerApp.pdb
+D:\SOC50\ProjectSOC\SupplierCheckerApp\SupplierCheckerApp\obj\Debug\SupplierCheckerApp.csproj.AssemblyReference.cache
+D:\SOC50\ProjectSOC\SupplierCheckerApp\SupplierCheckerApp\obj\Debug\SupplierCheckerApp.csproj.SuggestedBindingRedirects.cache
+D:\SOC50\ProjectSOC\SupplierCheckerApp\SupplierCheckerApp\obj\Debug\SupplierCheckerApp.Form1.resources
+D:\SOC50\ProjectSOC\SupplierCheckerApp\SupplierCheckerApp\obj\Debug\SupplierCheckerApp.Properties.Resources.resources
+D:\SOC50\ProjectSOC\SupplierCheckerApp\SupplierCheckerApp\obj\Debug\SupplierCheckerApp.csproj.GenerateResource.cache
+D:\SOC50\ProjectSOC\SupplierCheckerApp\SupplierCheckerApp\obj\Debug\SupplierCheckerApp.csproj.CoreCompileInputs.cache
+D:\SOC50\ProjectSOC\SupplierCheckerApp\SupplierCheckerApp\obj\Debug\SupplierCheckerApp.exe
+D:\SOC50\ProjectSOC\SupplierCheckerApp\SupplierCheckerApp\obj\Debug\SupplierCheckerApp.pdb
+D:\SOC50\ProjectSOC\SupplierCheckerApp\SupplierCheckerApp\bin\Debug\Newtonsoft.Json.dll
+D:\SOC50\ProjectSOC\SupplierCheckerApp\SupplierCheckerApp\bin\Debug\Newtonsoft.Json.xml
+D:\SOC50\ProjectSOC\SupplierCheckerApp\SupplierCheckerApp\obj\Debug\SupplierCheckerApp.csproj.CopyComplete

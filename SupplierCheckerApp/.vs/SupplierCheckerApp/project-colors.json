@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99cc01b2-f3f0-4f42-b70b-8763cca5557f": {
+      "ProjectGuid": "99cc01b2-f3f0-4f42-b70b-8763cca5557f",
+      "DisplayName": "SupplierCheckerApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

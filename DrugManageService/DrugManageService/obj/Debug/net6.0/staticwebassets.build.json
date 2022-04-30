@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MErXThP8xXJI3HrCATf0ZgOvKz3Aq0fYFB096oMJ1nU=",
+  "Source": "DrugManageService",
+  "BasePath": "_content/DrugManageService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
